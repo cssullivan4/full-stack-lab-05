@@ -10,7 +10,16 @@
     * Make sure you import JQuery into your html file
     * You will also need to import your own JavaScript file
 ## Game Demo
-![Alt text](/type-1.png?raw=true "Optional Title")
+
+![Alt text](/type-1.png?raw=true "Example of Type Gameplay")
+### Starting Game
+
+![Alt text](/type-2.png?raw=true "Example of Type Gameplay")
+### Game calculates at the end
+
+![Alt text](/type-3.png?raw=true "Example of Type Gameplay")
+### Gameover: Restart
+
 ## Objectives
 * (ALREADY COMPLETE) Create two keyboards (include space bar):
 		* First keyboard, lowercase keys, numbers and special characters accessed without shift
