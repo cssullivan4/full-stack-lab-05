@@ -9,7 +9,8 @@
 * You will be using JQuery to complete this lab
     * Make sure you import JQuery into your html file
     * You will also need to import your own JavaScript file
-
+## Game Demo
+![Alt text](/type-1.png?raw=true "Optional Title")
 ## Objectives
 * (ALREADY COMPLETE) Create two keyboards (include space bar):
 		* First keyboard, lowercase keys, numbers and special characters accessed without shift
